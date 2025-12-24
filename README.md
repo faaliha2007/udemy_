@@ -5,7 +5,7 @@ The project contains **two pages: Home and Contact**, designed with a simple and
 
 ## 👀 Live View
 You can view the website here:  
-🔗 https://your-username.github.io/your-repo-name/  <!-- Replace with your live link -->
+🔗  https://faaliha2007.github.io/udemy_/
 
 ## 📄 Pages
 - **Home Page** – Showcases the course listings, navigation bar, and basic layout inspired by Udemy  
