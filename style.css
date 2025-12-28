@@ -40,6 +40,24 @@ body{
     gap: 10px;
     align-items: center;
 }
+.mylearning{
+    position: relative;
+    cursor: pointer;
+}
+.mylearning__popup{
+    position: absolute;
+    width: 100px;
+    top: 100%;
+    right: 0px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    border: solid #A435F0 2px;
+    display: none;
+}
+.mylearning:hover .mylearning__popup{
+    display: block;
+}
 .categories{
     display: flex;
     padding: 10px;
@@ -296,4 +314,5 @@ gap: 30px;
 }
 .sale__desc p{
     line-height: 1.5;
+
 }
